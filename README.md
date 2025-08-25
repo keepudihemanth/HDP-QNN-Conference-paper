@@ -1,4 +1,4 @@
-#Existing Work
+# Existing Work
 
 Several machine learning models have been applied to
 heart disease prediction. Logistic Regression achieved an
